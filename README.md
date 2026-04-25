@@ -29,32 +29,12 @@ I value **clean code**, **engineering quality**, and **real-world usefulness**, 
 
 ---
 
-## Technical Interests
-
-- Backend Development
-- AI Application Engineering
-- Agent Systems
-- API Design and Integration
-- Workflow Automation
-- System Engineering
-
----
-
 ## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zykkk-power&show_icons=true&theme=default" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zykkk-power&layout=compact&theme=default" height="160" />
 </p>
-
----
-
-## What I'm Working On
-
-- Building backend systems with better maintainability and scalability
-- Exploring practical AI applications based on LLMs
-- Developing agent-based workflows for real-world tasks
-- Improving engineering ability in software design and implementation
 
 ---
 
