@@ -21,10 +21,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=zykkk-power&show_icons=true&theme=default" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zykkk-power&layout=compact&theme=default" height="160" />
 </p>
-
----
-
-## Contact
-
-- GitHub: https://github.com/zykkk-power
-- Email: your-email@example.com
