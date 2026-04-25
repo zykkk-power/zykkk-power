@@ -15,20 +15,6 @@
 
 ---
 
-## About Me
-
-I am a graduate student at **Nanjing University of Aeronautics and Astronautics**, focusing on **backend development**, **AI applications**, and **agent-based systems**.
-
-I am interested in building practical and reliable software systems, especially in areas related to:
-- backend architecture and service development
-- LLM application engineering
-- AI agent workflows and tool integration
-- automation and intelligent systems
-
-I value **clean code**, **engineering quality**, and **real-world usefulness**, and I enjoy turning ideas into usable systems.
-
----
-
 ## GitHub Stats
 
 <p align="center">
