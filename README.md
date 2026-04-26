@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm zykkk-power 👋</h1>
+<h1 align="center">Hi, I'm zyk 👋</h1>
 <p align="center">
   Graduate Student at Nanjing University of Aeronautics and Astronautics
 </p>
