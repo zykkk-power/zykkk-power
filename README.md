@@ -23,7 +23,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zykkk-power&layout=compact&theme=transparent&hide_border=true&langs_count=8&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zykkk-power&layout=compact&theme=transparent&hide_border=true&langs_count=8&count_private=true&cache_seconds=1800"
     height="165"
   />
 </p>
