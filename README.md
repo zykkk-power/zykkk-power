@@ -17,10 +17,6 @@
 ## GitHub Overview
 
 <p align="center">
-  ⭐ Total Stars Earned: <b>46</b> &nbsp;&nbsp;|&nbsp;&nbsp; 🕒 Total Commits: <b>721</b>
-</p>
-
-<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=zykkk-power&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github&cache_seconds=1800"
     height="165"
