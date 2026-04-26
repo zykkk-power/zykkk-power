@@ -18,10 +18,10 @@
 ## GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=zykkk-power&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800"
-    height="165"
-  />
+  ⭐ Total Stars Earned: <b>46</b> &nbsp;&nbsp;|&nbsp;&nbsp; 🕒 Total Commits: <b>721</b>
+</p>
+
+<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=zykkk-power&layout=compact&theme=transparent&hide_border=true&langs_count=8&cache_seconds=1800"
     height="165"
