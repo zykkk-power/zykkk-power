@@ -17,8 +17,8 @@
 ## GitHub Overview
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zykkk-power&theme=github" height="160" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zykkk-power&theme=github" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zykkk-power&theme=transparent" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zykkk-power&theme=transparent" height="165" />
 </p>
 
 <p align="center">
